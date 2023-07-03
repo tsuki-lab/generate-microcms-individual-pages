@@ -1,0 +1,19 @@
+{
+  "apiFields": [
+    {
+      "idValue": "mrB5qlAMJG",
+      "fieldId": "pathname",
+      "name": "pathname",
+      "kind": "text",
+      "required": true,
+      "patternMatchValidation": {
+        "regexp": { "pattern": "/[0-9a-z/]+", "flags": null }
+      },
+      "isUnique": true
+    },
+    { "fieldId": "title", "name": "title", "kind": "text" },
+    { "fieldId": "description", "name": "description", "kind": "textArea" },
+    { "fieldId": "content", "name": "本文", "kind": "richEditorV2" }
+  ],
+  "customFields": []
+}

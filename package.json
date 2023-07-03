@@ -1,5 +1,5 @@
 {
-  "name": "page-cms",
+  "name": "generate-microcms-individual-pages",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -15,11 +15,11 @@
     "autoprefixer": "10.4.14",
     "eslint": "8.44.0",
     "eslint-config-next": "13.4.7",
+    "microcms-js-sdk": "^2.5.0",
     "next": "13.4.7",
-    "postcss": "8.4.24",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "tailwindcss": "3.3.2",
+    "sakura.css": "^1.4.1",
     "typescript": "5.1.6"
   }
 }
